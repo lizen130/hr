@@ -1,0 +1,31 @@
+@CHARSET "UTF-8";
+.normal{
+    background: white;
+    font-weight: bold;
+    color: black;
+    border: 1px solid black;
+}
+.right{
+    background: white;
+    font-weight: bold;
+    color: black;
+    border: 1px solid green;
+
+}
+.wrong{
+    background: white;
+    font-weight: bold;
+    color: red;
+    border: 1px solid red;
+}
+.title{
+    background: white;
+    font-weight: bold;
+    color: black;
+
+    font-size: 30px;
+}
+.button{
+    font-size: large;
+
+}
